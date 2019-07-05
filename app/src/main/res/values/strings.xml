@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soccerbuzz</string>
+
+    <string name="admob_app_id">ca-app-pub-5512883928484275~2154159624</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5512883928484275/4493560111</string>
+
+</resources>
